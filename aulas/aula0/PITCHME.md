@@ -1,3 +1,0 @@
-# Aula inaugural
----
-# Obrigado!
