@@ -7,11 +7,16 @@
 
 **contatos**
 
-- e-mail: [thiago.mbitencourt@gmail.com]()
-- github: [github.com/thiagobitencourt](github.com/thiagobitencourt)
-- linkedIn: [Thiago Bitencourt](https://www.linkedin.com/in/thiagombitencourt)
-- Twitter: [@thiagombiten](https://twitter.com/@thiagombiten)
-- Medium: [@thiagobitencourt](https://medium.com/@thiagobitencourt)
+:envelope: [thiago.mbitencourt@gmail.com]()
+
+:octocat: [github.com/thiagobitencourt](github.com/thiagobitencourt)
+
+
+:moneybag: [linkedin.com/in/thiagombitencourt](https://www.linkedin.com/in/thiagombitencourt)
+
+:bird: [twitter.com@thiagombiten](https://twitter.com/@thiagombiten)
+
+:notebook: [medium.com/@thiagobitencourt](https://medium.com/@thiagobitencourt)
 
 ---
 
@@ -22,7 +27,7 @@
 - Algoritmos
 - Algoritmos no nosso dia-a-dia
 - Diagramas de fluxo (fluxograma)
-- 
+-
 
 ---
 # Obrigado!
