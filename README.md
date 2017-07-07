@@ -16,6 +16,16 @@ _Conteúdo ainda em desenvolvimento_
 - História da programação
 - Introdução à lógica de programação
 - Introdução à algoritmos
+- Pseudocódigo
+- Fluxograma
+- Linguagens de programação
+- Tipos de dados
+- Variáveis e constantes
+- Operadores (matemáticos, relacionais e lógicos)
+- Entrada e saída de dados
+- Estruturas de controler
+- Entruturas de Dados
+- Procedimentos e funções
 
 
 **Repositório**
