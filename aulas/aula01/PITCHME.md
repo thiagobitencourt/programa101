@@ -46,16 +46,15 @@
 
 ### Aulas
 
-<br>
-Início _18:30_ | Fim _22:00_ <br>
+Início _18:30_ | Fim _22:00_
+
 **Intervalos ??**
 
 ---
 
 ### Avaliação
 
-<br>
-**2 BIMESTRES**
+__2 BIMESTRES__
 
 Notas B1 = ```(P1 x 0.3) + (O1 x 0.7)```
 
@@ -70,7 +69,7 @@ Final = ```(B1 x 0.4) + (B2 x 0.6)```
 <br>
 Aprovado = ```Final >= 7.0```
 
-Reprovado = ```Final > 4.0```
+Reprovado = ```Final < 4.0```
 
 Exame = ```Final >= 4.0 && Final < 7.0```
 
@@ -79,7 +78,7 @@ Exame = ```Final >= 4.0 && Final < 7.0```
 ### Exame
 
 <br>
-Aprovado = ```Final >= 4.0 && Final < 7.0```
+Aprovado = ```Final + Exame > 6.0```
 
 Conteúdo de todo o semestre.
 
@@ -87,7 +86,7 @@ Conteúdo de todo o semestre.
 
 ### Respositório
 
-Todo o conteúdo será disponibilizado via [GitHub](github.com)
+_Todo_ o conteúdo será disponibilizado via [GitHub](github.com)
 
 [github.com/thiagobitencourt/programa101](github.com/thiagobitencourt/programa101)
 
