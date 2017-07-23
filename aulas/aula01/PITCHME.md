@@ -6,15 +6,15 @@
 
 **contatos**
 
-:envelope: [thiago.mbitencourt@gmail.com]()
+[thiago.mbitencourt@gmail.com]()
 
-:octocat: [github.com/thiagobitencourt](github.com/thiagobitencourt)
+[github.com/thiagobitencourt](github.com/thiagobitencourt)
 
-:moneybag: [linkedin.com/in/thiagombitencourt](https://www.linkedin.com/in/thiagombitencourt)
+[linkedin.com/in/thiagombitencourt](https://www.linkedin.com/in/thiagombitencourt)
 
-:bird: [twitter.com@thiagombiten](https://twitter.com/@thiagombiten)
+[twitter.com@thiagombiten](https://twitter.com/@thiagombiten)
 
-:notebook: [medium.com/@thiagobitencourt](https://medium.com/@thiagobitencourt)
+[medium.com/@thiagobitencourt](https://medium.com/@thiagobitencourt)
 
 ---
 
@@ -38,7 +38,7 @@
 +++
 
 - Entrada e saída de dados
-- Estruturas de controler
+- Estruturas de controles
 - Entruturas de Dados
 - Procedimentos e funções
 
@@ -84,6 +84,22 @@ Conteúdo de todo o semestre.
 
 ---
 
+### Atividades e Prova
+
+
+**ATIVIDADES 3.0**
+
+Participação em sala
+Realização das atividades da aula
+Atividades para entregar
+
+<br>
+**PROVA 7.0**
+
+Todo conteúdo estudado
+
+---
+
 ### Respositório
 
 _Todo_ o conteúdo será disponibilizado via [GitHub](github.com)
@@ -92,4 +108,31 @@ _Todo_ o conteúdo será disponibilizado via [GitHub](github.com)
 
 
 ---
-# Obrigado!
+
+### Programas de computadores
+
+- O que é um programa de computador? |
+- Um exemplo de um programa de computador? |
+- A programação é importante para nós? |
+- O que seria do mundo atual sem programadores?
+
+---
+
+"Um **programa de computador** ou programa informático é um **conjunto de instruções** que descrevem uma tarefa a ser realizada por um computador. O termo pode ser uma referência ao **código fonte**, escrito em alguma **linguagem de programação**." - [WIKIPEDIA](https://pt.wikipedia.org/wiki/Programa_de_computador)
+
+---
+
+### Computador é "_burro_"
+
+Nós, programadores, é quem **ensiamos** os computadores a fazerem as coisas.
+<br>
+
+**Como fazemos isso?**
+_PROGRAMANDO_ (escrevendo programas)
+
+---
+
+[superman](assets/superman.jpg)
+
+---
+## Obrigado!
