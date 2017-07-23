@@ -89,14 +89,14 @@ Conteúdo de todo o semestre.
 
 **ATIVIDADES 3.0**
 
-Participação em sala
-Realização das atividades da aula
-Atividades para entregar
+- Participação em sala
+- Realização das atividades da aula
+- Atividades para entregar
 
 <br>
 **PROVA 7.0**
 
-Todo conteúdo estudado
+- Todo conteúdo estudado
 
 ---
 
@@ -114,11 +114,11 @@ _Todo_ o conteúdo será disponibilizado via [GitHub](github.com)
 - O que é um programa de computador? |
 - Um exemplo de um programa de computador? |
 - A programação é importante para nós? |
-- O que seria do mundo atual sem programadores?
+- O que seria do mundo atual sem programadores? |
 
 ---
 
-"Um **programa de computador** ou programa informático é um **conjunto de instruções** que descrevem uma tarefa a ser realizada por um computador. O termo pode ser uma referência ao **código fonte**, escrito em alguma **linguagem de programação**." - [WIKIPEDIA](https://pt.wikipedia.org/wiki/Programa_de_computador)
+"Um **programa de computador** ou programa informático é um **conjunto de instruções** que descrevem uma tarefa a ser realizada por um computador. O termo pode ser uma referência ao **código fonte**, escrito em alguma **linguagem de programação**." - [Wikipedia](https://pt.wikipedia.org/wiki/Programa_de_computador)
 
 ---
 
@@ -128,11 +128,12 @@ Nós, programadores, é quem **ensiamos** os computadores a fazerem as coisas.
 <br>
 
 **Como fazemos isso?**
+<br>
 _PROGRAMANDO_ (escrevendo programas)
 
 ---
 
-[superman](assets/superman.jpg)
+![superman](assets/superman.jpg)
 
 ---
 ## Obrigado!
