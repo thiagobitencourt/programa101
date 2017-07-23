@@ -133,7 +133,7 @@ _PROGRAMANDO_ (escrevendo programas)
 
 ---
 
-![superman](assets/superman.jpg)
+![superman](https://github.com/thiagobitencourt/programa101/tree/master/assets/img/superman.jpg)
 
 ---
 ## Obrigado!
