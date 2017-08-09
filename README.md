@@ -12,10 +12,8 @@ Vamos estudar alguns conceitos teóricos e vamos conhecer um pouco da história 
 _Conteúdo ainda em desenvolvimento_
 
 - [Apresentação (Aula inaugural)](aulas/aula01/README.md)
-- Programas de computadores
-- História da programação
-- Introdução à lógica de programação
-- Introdução à algoritmos
+- [História da programação](aulas/aula02/README.md)
+- [Introdução a algoritmos](aulas/aula02/README.md)
 - Pseudocódigo
 - Fluxograma
 - Linguagens de programação
@@ -38,5 +36,9 @@ Qualquer dúvida, comentário, sugestão ou crítica, não deixe de entrar em co
 **Links úteis**
 
 
+**Curiosidades**
+
+- [Filme O Jogo da Imitação (_The Imitation Game_)](https://pt.wikipedia.org/wiki/O_Jogo_da_Imita%C3%A7%C3%A3o)
+- [Filme Piratas do Vale do Silício (_Pirates of Silicon Valley_)](https://pt.wikipedia.org/wiki/Pirates_of_Silicon_Valley)
 
 **Referências**
