@@ -114,7 +114,137 @@ Percebeu que as mudanças seguiam uma _certa lógica_ e inventou um processo de 
 
 ### Algoritmos
 
-Algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um intervalo de tempo finito e com uma quantidade de esforço finita.
+Algoritmo é uma sequência finita de _instruções_ bem definidas e _não ambíguas_, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um _intervalo de tempo finito_ e com uma quantidade de _esforço finito_.
+
+---
+
+### Instruções
+
+  _sequência finita de **instruções**_
+
+- Ação de instruir
+- Dizer o que fazer e como
+- Exemplo: _manual de instrução_
+
+--- 
+
+### Não ambíguas
+
+  _instruções bem definidas e **não ambíguas**_
+
+- Que contém ou pode conter múltiplos sentidos
+- Com distintos significados
+- Cujo sentido permite várias interpretações
+- Em que há indecisão ou dúvida
+
+---
+
+### Algoritmos
+
+É um _passo a passo_ a ser seguido e executado para resolver um determinado problema computacional ou não.
+
+<br>
+
+Podem repetir passos ou necessitar de decisões até que a tarefa seja completada.
+
++++
+
+**Alan Turing**
+
+O _conceito_ de um algoritmo foi formalizado em 1936 pela _Máquina de Turing_.
+
+---
+
+### Exemplo 
+
+Problema: **Acordar e sair para o trabalho pela manhã**
+- Algoritmo: |
+  - acordar |
+  - levantar da cama |
+  - espreguiçar-se |
+  - andar até o banheiro |
+  - fazer as necessidades fisiolágicas |
+
++++
+
+Problema: Acordar e sair para o trabalho pela manhã.
+- fazer as necessidades fisiolágicas 
+- lavar o rosto |
+- escovar os dentes |
+- andar até o guarda-roupas |
+- pegar a roupa |
+- vestir-se |
+- sair de casa para o trabalho |
+- Fim. |
+
+---
+
+### Exemplo
+
+Problema: **Fazer um bolo**
+- obtenha os ingredientes |
+- bata as claras em neve |
+- misture as gemas, a margarina e o açúcar até obter uma massa homogênea |
+- acrescente o leite e a farinha de trigo aos poucos sem parar de bater |
+- adicione as claras em neve e o fermento |
+- espeje a massa em uma forma untada e enfarinhada |
+- asse em forno médio 180 °C, por aproximadamente 40 minutos |
+
+--- 
+
+### Execução de um algoritmo
+
+Um algoritmo é frequentemente ilustrado pelo exemplo de uma receita culinária, mas podem ser bem mais complexos do que isso.
+
+Um algoritmo _executado_ corretamente pode não resolver o problema se não for _implementado_ corretamente ou se não for apropriado ao problema.
+
+--- 
+
+### Execução de um algoritmo
+
+Um algoritmo não representar, necessariamente, um programa de computador, e sim os passos necessários para _realizar uma tarefa_.
+
+A execução pode ser feita por um computador, algum outro tipo de automato ou mesmo um ser humano.
+
+---
+
+### Diferentes algoritmos
+
+Diferentes algoritmos podem realizar a mesma tarefa usando um conjunto diferenciado de instruções em mais ou menos tempo, espaço ou esforço.
+
+Tal diferença pode ser reflexo da _complexidade computacional_ aplicada.
+
++++ 
+
+**Por exemplo**
+
+Um algoritmo para se vestir pode especificar que você primeiro vista as meias e os sapatos e depois a calça. 
+
+Um outro algoritmo especifica que você primeiro vista a calça e depois as meias e os sapatos. 
+
++++
+
+O primeiro algoritmo é mais difícil de ser executado do que o segundo, porém ambos levam ao mesmo resultado.
+
+---
+
+### Programa de computador
+
+Um programa de computador é essencialmente um algoritmo que diz ao computador os passos específicos e em que ordem eles devem ser executados.
+
++++ 
+
+Para qualquer processo computacional, o algoritmo precisa estar rigorosamente definido, especificando a maneira que ele se comportará em todas as circunstâncias.
+
+---
+
+### Atividades
+
+- No repositório:
+  - [aulas/aula02/ATIVIDADES.md](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula02/ATIVIDADES.md)
+
+- Entrega: 
+  - Via github, seguindo as instruções do professor.
 
 ---
 
