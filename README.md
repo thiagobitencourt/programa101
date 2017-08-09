@@ -13,7 +13,7 @@ _Conteúdo ainda em desenvolvimento_
 
 - [Apresentação (Aula inaugural)](aulas/aula01/README.md)
 - [História da programação](aulas/aula02/README.md)
-- Introdução à algoritmos
+- [Introdução a algoritmos](aulas/aula02/README.md)
 - Pseudocódigo
 - Fluxograma
 - Linguagens de programação

@@ -9,5 +9,6 @@ Após esta aula, haverá algumas atividades a serem resolvidas relacionado aos a
 **Conteúdo**
 
 - [Aula história](PITCHME.md)
+- [Aula Algoritmos](PITCHME.md#introdução-a-algoritmos)
 - [Slides](https://gitpitch.com/thiagobitencourt/programa101?p=aulas/aula02)
 - [Atividades](ATIVIDADES.md)

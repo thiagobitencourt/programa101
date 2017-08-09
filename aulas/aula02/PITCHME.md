@@ -97,4 +97,25 @@ Percebeu que as mudanças seguiam uma _certa lógica_ e inventou um processo de 
 
 ---
 
+# Introdução a Algoritmos
+### Algoritmos e técnicas de programação
+
+---
+
+**Conteúdo**
+
+- O que é um algoritmo
+  - Definição
+  - Aplicabilidade
+- Receita de hoje
+- Atividades
+
+---
+
+### Algoritmos
+
+Algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um intervalo de tempo finito e com uma quantidade de esforço finita.
+
+---
+
 **Até a próxima aula!**
