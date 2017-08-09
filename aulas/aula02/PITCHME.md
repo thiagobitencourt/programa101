@@ -126,7 +126,7 @@ Algoritmo é uma sequência finita de _instruções_ bem definidas e _não ambí
 - Dizer o que fazer e como
 - Exemplo: _manual de instrução_
 
---- 
+---
 
 ### Não ambíguas
 
@@ -155,7 +155,7 @@ O _conceito_ de um algoritmo foi formalizado em 1936 pela _Máquina de Turing_.
 
 ---
 
-### Exemplo 
+### Exemplo
 
 Problema: **Acordar e sair para o trabalho pela manhã**
 - Algoritmo: |
@@ -163,12 +163,12 @@ Problema: **Acordar e sair para o trabalho pela manhã**
   - levantar da cama |
   - espreguiçar-se |
   - andar até o banheiro |
-  - fazer as necessidades fisiolágicas |
+  - fazer as necessidades fisiológicas |
 
 +++
 
 Problema: Acordar e sair para o trabalho pela manhã.
-- fazer as necessidades fisiolágicas 
+- fazer as necessidades fisiológicas
 - lavar o rosto |
 - escovar os dentes |
 - andar até o guarda-roupas |
@@ -190,7 +190,7 @@ Problema: **Fazer um bolo**
 - espeje a massa em uma forma untada e enfarinhada |
 - asse em forno médio 180 °C, por aproximadamente 40 minutos |
 
---- 
+---
 
 ### Execução de um algoritmo
 
@@ -198,11 +198,11 @@ Um algoritmo é frequentemente ilustrado pelo exemplo de uma receita culinária,
 
 Um algoritmo _executado_ corretamente pode não resolver o problema se não for _implementado_ corretamente ou se não for apropriado ao problema.
 
---- 
+---
 
 ### Execução de um algoritmo
 
-Um algoritmo não representar, necessariamente, um programa de computador, e sim os passos necessários para _realizar uma tarefa_.
+Um algoritmo não representa, necessariamente, um programa de computador, e sim os passos necessários para _realizar uma tarefa_.
 
 A execução pode ser feita por um computador, algum outro tipo de automato ou mesmo um ser humano.
 
@@ -214,13 +214,13 @@ Diferentes algoritmos podem realizar a mesma tarefa usando um conjunto diferenci
 
 Tal diferença pode ser reflexo da _complexidade computacional_ aplicada.
 
-+++ 
++++
 
 **Por exemplo**
 
-Um algoritmo para se vestir pode especificar que você primeiro vista as meias e os sapatos e depois a calça. 
+Um algoritmo para se vestir pode especificar que você primeiro vista as meias e os sapatos e depois a calça.
 
-Um outro algoritmo especifica que você primeiro vista a calça e depois as meias e os sapatos. 
+Um outro algoritmo especifica que você primeiro vista a calça e depois as meias e os sapatos.
 
 +++
 
@@ -232,7 +232,7 @@ O primeiro algoritmo é mais difícil de ser executado do que o segundo, porém 
 
 Um programa de computador é essencialmente um algoritmo que diz ao computador os passos específicos e em que ordem eles devem ser executados.
 
-+++ 
++++
 
 Para qualquer processo computacional, o algoritmo precisa estar rigorosamente definido, especificando a maneira que ele se comportará em todas as circunstâncias.
 
@@ -243,7 +243,7 @@ Para qualquer processo computacional, o algoritmo precisa estar rigorosamente de
 - No repositório:
   - [aulas/aula02/ATIVIDADES.md](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula02/ATIVIDADES.md)
 
-- Entrega: 
+- Entrega:
   - Via github, seguindo as instruções do professor.
 
 ---
