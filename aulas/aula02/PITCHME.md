@@ -163,19 +163,19 @@ Problema: **Acordar e sair para o trabalho pela manhã**
   - levantar da cama |
   - espreguiçar-se |
   - andar até o banheiro |
-  - fazer as necessidades fisiolágicas
+  - fazer as necessidades fisiolágicas |
 
 +++
 
 Problema: Acordar e sair para o trabalho pela manhã.
-- fazer as necessidades fisiolágicas |
+- fazer as necessidades fisiolágicas 
 - lavar o rosto |
 - escovar os dentes |
 - andar até o guarda-roupas |
 - pegar a roupa |
 - vestir-se |
 - sair de casa para o trabalho |
-- Fim.
+- Fim. |
 
 ---
 
@@ -189,7 +189,6 @@ Problema: **Fazer um bolo**
 - adicione as claras em neve e o fermento |
 - espeje a massa em uma forma untada e enfarinhada |
 - asse em forno médio 180 °C, por aproximadamente 40 minutos |
-- Fim.
 
 --- 
 
@@ -243,8 +242,9 @@ Para qualquer processo computacional, o algoritmo precisa estar rigorosamente de
 
 - No repositório:
   - [aulas/aula02/ATIVIDADES.md](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula02/ATIVIDADES.md)
+
 - Entrega: 
-  - Via github.
+  - Via github, seguindo as instruções do professor.
 
 ---
 
