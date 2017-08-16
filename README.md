@@ -14,14 +14,15 @@ _Conteúdo ainda em desenvolvimento_
 - [Apresentação (Aula inaugural)](aulas/aula01/README.md)
 - [História da programação](aulas/aula02/README.md)
 - [Introdução a algoritmos](aulas/aula02/README.md)
-- Pseudocódigo
+- [Pseudocódigo/Portugol](aulas/aula03/README.md)
 - Fluxograma
 - Linguagens de programação
 - Tipos de dados
 - Variáveis e constantes
 - Operadores (matemáticos, relacionais e lógicos)
 - Entrada e saída de dados
-- Estruturas de controler
+- Estruturas de controle
+- Estruturas de repetições
 - Entruturas de Dados
 - Procedimentos e funções
 
