@@ -36,3 +36,9 @@ Para a entrega dos exercícios da aula anterior, siga as instruções do profess
 - Algoritmo para resolver o desafio da torre de Hanói
 
 ---
+
+# Pseudocódigos
+### Algoritmos e técnicas de programação
+
+---
+
