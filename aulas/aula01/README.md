@@ -1,5 +1,6 @@
 # Aula 01 - Aula inaugural
 
+Esta é a primeira aula do curso, sejam bem vindos!
 
 Nesta aula iremos trocar uma ideia com objetivo de nos conhecermos melhor, já que vamos passar um bom tempo juntos vai ser legal saber com quem estamos interagindo.
 
