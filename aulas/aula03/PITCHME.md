@@ -42,7 +42,7 @@ Isso é normal, já que cada pessoa vai pensar em uma forma de resolver um deter
 
 ---
 
-# Desafio Canibais e Missionários
+### Desafio Canibais e Missionários
 
 Três canibais e três missionários estão viajando juntos e chegam à margem de um rio. Eles desejam atravessar para a outra margem para continuar a viagem. O único meio de transporte disponível é um barco que comporta no máximo duas pessoas. Há uma dificuldade: em nenhum momento o número de canibais pode ser superior ao número de missionários pois desta forma os missionários estariam em grande perigo de vida. Como administrar a travessia?
 <br>
@@ -50,7 +50,7 @@ Crie um algoritmo para realizar a travessia dos canibais e dos missionários.
 
 ---
 
-# Desafios Onça, bode e Capim
+### Desafios Onça, bode e Capim
 
 Você tem que levar uma onça,um bode e um fecho de capim para o outro lado da ponte! Mas sem que o bode coma o capim e sem que a onça coma o bode...e um de cada vez,sem deixar a onça com o bode e o bode com o capim. Como faria?
 <br>
@@ -63,7 +63,7 @@ Crie um algoritmo.
 
 ---
 
-# Programas de computador
+## Programas de computador
 
 Chamamos de programa de computador um conjunto de instruções que será executado pelo processador em uma determinada sequência, esse programa leva o computador a executar alguma tarefa.
 
@@ -73,7 +73,7 @@ Um programa de computador nada mais é do que um tipo de algoritmo. Sua particul
 
 ---
 
-# Linguagens de programação
+## Linguagens de programação
 
 - Conjunto de instruções é a primeira linguagem chamada, Linguagem de máquina
 - Classificação das linguagens segundo a proximidade com a linguagem da máquina
@@ -82,7 +82,7 @@ Um programa de computador nada mais é do que um tipo de algoritmo. Sua particul
 
 ---
 
-# Linguagem natural
+### Linguagem natural
 
 - Usadas pelos seres humanos
 - Computadres não são capazes de entender
@@ -97,14 +97,14 @@ Um programa de computador nada mais é do que um tipo de algoritmo. Sua particul
 
 ---
 
-## Características de uma linguagem de programação
+### Características de uma linguagem de programação
 
 - Rigidez sintática
 - Rigidez semântica
 
 +++
 
-## Rigidez sintática
+### Rigidez sintática
 
 O código escrito será "traduzido" para que o processador entenda.
 O "tradutor" (compilador) só consegue fazer traduções sobre um idioma bastante limitado e com construções muito bem definidas.
@@ -113,7 +113,7 @@ Portanto, em uma linguagem de programação veremos palavras da linguagem natual
 
 +++
 
-## Rigidez semântica
+### Rigidez semântica
 
 O computador definitivamente não pode lidar com ambiguidades.
 Não adianta o programador ter uma intenção se não conseguir defini-la de forma exata.
@@ -124,11 +124,11 @@ Um computador é um ótimo cumpridor de ordens, mas não tem ideia de quais orde
 
 "A velinha ouviu o barulho da janela".
 <br>
-O que isso que dizer?
+O que isso quer dizer?
 
 ---
 
-## Algoritmos usando uma linguagem de programação
+### Algoritmos usando uma linguagem de programação
 
 Vimos que a linguagem natual não é adequada para de algoritmos para computadores.
 <br>
@@ -136,7 +136,7 @@ Escrever um algorimo usando uma linguagem de programação real, mesmo de alto n
 
 ---
 
-## Linguagem intermediárias
+### Linguagem intermediárias
 
 Para nos habituarmos as linguagens de programação vamos usar uma forma intermediária entre uma linguagem natual e uma linguagem de programação.
 <br>
