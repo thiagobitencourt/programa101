@@ -109,7 +109,7 @@ Um programa de computador nada mais é do que um tipo de algoritmo. Sua particul
 O código escrito será "traduzido" para que o processador entenda.
 O "tradutor" (compilador) só consegue fazer traduções sobre um idioma bastante limitado e com construções muito bem definidas.
 <br>
-Portanto, em uma linguagem de programação veremos palavras da linguagem natual, mas estas não serão utilizadas com a mesma liberdade,
+Portanto, em uma linguagem de programação veremos palavras da linguagem natural, mas estas não serão utilizadas com a mesma liberdade,
 
 +++
 
