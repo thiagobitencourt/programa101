@@ -1,11 +1,11 @@
-# Aula 03 - Resolução dos exercícios
+# Aula 03 - Parte 1. Resolução dos exercícios
 
 Para que possamos aprimorar nosso pensamento lógico, vamos pensar em como resolver alguns desafios. Então, pesquise um pouco sobre o desafio da torre de Hanói. E se encontra algum outro desafio interessante, traga para a aula e assim podemos resolver juntos.
 
 Nesta aula vamos, antes de tudo, resolver os exercícios passados na aula anterior. Quem tiver interesse poderá compartilhar com a turma qual foram os passos para resolver um problema proposto, ou seja, como ficou seu Algoritmo. Faremos ainda alguns outros exemplos para que possamos fixar o conceito de Algoritmo e então poderemos prosseguir para o próximo assunto.
 
 
-# Aula 03 - Pseudocódigo/Portugol
+# Aula 03 - Parte 2. Pseudocódigo/Portugol
 
 Estamos escrevendo nossos algoritmos utilizando uma linguagem natual, a mesma que usamos no dia-a-dia para conversar com outros seres humanos. Vamos começar a pensar um pouco mais em linguagens de programação reais. Pesquise um pouco sobre Pseudocódigos ou então portugol, você vai ver uma forma de escrever um pouco estranha, mas não se preocupe pois vamos esclarecer isso nesta aula.
 
