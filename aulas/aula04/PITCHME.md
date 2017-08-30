@@ -29,6 +29,7 @@
 - Soma de números
 - Quantidade de alunos aprovados
 - Ler saldo bancário dos clientes e apresentar a situação da conta
+- Fatorial
 
 ---
 
