@@ -1,0 +1,12 @@
+prog repete_para;
+inicio
+
+para(int x = 1; x <= 10; x = x + 1)
+inicio
+
+  imprima(x);
+
+fimpara
+
+
+fimprog

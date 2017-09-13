@@ -1,0 +1,35 @@
+prog calculo_media_final
+inicio
+
+variaveis:
+real nota1, nota2, nota3, nota4;
+real media1, media2, resultado;
+
+string nome_aluno, aluno_aprovado;
+
+ler (nome_aluno);
+ler (nota1);
+ler (nota2);
+ler (nota3);
+ler (nota4);
+
+aluno_aprovado = "Aprovado!";
+
+media1 = (nota1 + nota2) / 2;
+media2 = (nota3 + nota4) / 2;
+
+resultado = (media1 + media2) / 2;
+
+se (resultado >= 7)
+ entao
+	imprimir ("O aluno ", nome_aluno, " ", aluno_aprovado);
+ senao
+  se (resultado >= 4)
+   entao
+    imprimir ("Exame!");
+	 senao
+		imprimir ("Reprovado!");
+   fimse
+fimse
+
+fim

@@ -2,7 +2,7 @@
 
 ## Atividades
 
-Leia e interprete as descrições a seguir e crie programas de computador que atendam aos requisitos. Represente os algoritmos criados de forma gráfica, utilzando fluxogramas.
+Leia e interprete as descrições a seguir e crie programas de computador que atendam aos requisitos. Represente os algoritmos criados de forma gráfica, utilzando fluxogramas. Então, escreva estes algoritmos utilizando também portugol.
 
 
 ### 1. Mostrar o resultado da tabuada de um número

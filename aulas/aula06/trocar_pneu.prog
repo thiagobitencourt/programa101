@@ -1,0 +1,25 @@
+prog trocar_pneu
+inicio
+
+variaveis
+  real calibragem_ideal = 27,5;
+  real calibragem_pneu;
+
+  int qtd_pneus;
+
+ler(qtd_pneus);
+
+para(int x = 1; x <= qtd_pneus; x = x + 1)
+inicio
+
+  ler(calibragem_pneu);
+
+  se(calibragem_pneu < calibragem_ideal)
+  inicio
+
+    trocar_pneu();
+
+  fimse
+
+fimpara
+fimprog

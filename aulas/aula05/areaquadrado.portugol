@@ -1,0 +1,12 @@
+prog areaquadrado
+inicio
+
+variavies:
+real lado, area;
+ler lado;
+
+area = lado * lado;
+
+imprimir area;
+
+fim

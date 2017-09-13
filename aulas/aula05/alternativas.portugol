@@ -1,0 +1,34 @@
+prog opcao
+inicio
+
+variaveis:
+int opcao;
+
+imprimira("Selecione uma opcao");
+imprimira("1 - Dizer oi");
+imprimira("2 - Dizer Olá");
+imprimira("3 - Dizer Até logo");
+
+ler opcao;
+
+escolha (opcao)
+inicio
+	caso 1 : 
+			imprima("oi");
+			pare;
+
+	caso 2 :
+			imprima("Olá");
+			pare;
+
+	caso 3:
+		imprima("Até logo");
+		pare;
+
+	outrocaso: 
+		imprima("Não conheço a opção que vc digitou");
+
+	fimescolha
+fim
+
+
