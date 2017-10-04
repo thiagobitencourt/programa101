@@ -1,0 +1,25 @@
+prog faca_enquanto
+inicio
+
+variaveis
+  int soma_numeros = 0;
+  int valor_informado;
+
+ler(valor_informado);
+soma_numeros = soma_numeros + valor_informado;
+
+enquanto( soma_numeros < 21 )
+faca
+
+  ler(valor_informado);
+  soma_numeros = soma_numeros + valor_informado;
+
+fimenquanto
+
+se(soma_numeros == 21)
+então
+  imprime("Meus parabéns, você ganhou o jogo!");
+senão
+  imprime("Você perdeu o jogo!");
+
+fimprog

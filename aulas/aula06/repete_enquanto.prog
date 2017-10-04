@@ -1,0 +1,19 @@
+prog repete_enquanto
+inicio
+
+variaveis
+  int valor_informado, soma = 0;
+
+quanto(soma < 100)
+  faca
+
+    imprime("Digite um número ");
+    ler(valor_informado);
+
+    soma = soma + valor_informado;
+
+  fimenquanto
+
+imprime(soma);
+
+fimprog

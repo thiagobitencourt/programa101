@@ -1,0 +1,18 @@
+prog media_turma
+inicio
+
+variaveis
+ int quantidade_alunos;
+ int soma = 0;
+
+ ler(quantidade_alunos)
+
+ para(int x = 1; x <= quantidade_alunos; x = x + 1)
+  inicio
+
+    ler(media_aluno);
+    soma = soma + media_aluno;
+
+  fimpara
+
+fim
