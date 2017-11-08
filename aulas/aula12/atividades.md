@@ -86,7 +86,7 @@ CONSUMO | (Km/l) | MENSAGEM
 --------|--------|--------
 menor que | 8 | Venda o carro!
 entre | 8 e 14 | Econômico!
-maior que | 12 | Super econômico!
+maior que | 14 | Super econômico!
 
 16. Faça uma função que receba dois números inteiros positivos por parâmetro e retorne a
 soma dos `N` números inteiros existentes entre eles.
