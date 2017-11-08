@@ -1,5 +1,6 @@
 # Lista de exercícios
 
+[Atividade anteriores](#atividades-anteriores)
 [Veja a forma de entrega](#forma-de-entrega)
 
 Resolva os exercícios abaixo utilizando a linguagem de programação C.
@@ -104,8 +105,33 @@ Além disso, no inicio de cada arquivo adicione a descrição do exercício e o 
 */
 ```
 
-Após resolver todos os exercícios adicione os arquivos `.c` em um diretório juntamente com os demais exercícios que foram resolvidos ao longo do bimestre.
+Após resolver todos os exercícios adicione os arquivos `.c` em um diretório juntamente com os [demais exercícios](#atividades-anteriores) que foram resolvidos ao longo do bimestre.
 
 Compacte este diretório em um arquivo `.zip` com o nome da seguinte forma: `NomeSobrenome_algoritmos_parcial2_201702.zip`.
 
 Encaminhe os exercícios resolvidos para o e-mail passado em sala de aula, respeitando a data e horário limite estipulados em sala de aula.
+
+
+# Atividades antoriores
+
+Ao longo do bimestre foi solicitado que algumas outras atividades também fossem implementadas. Esta atividades também deverão ser entregues.
+
+Atividades da [aula 04](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula04/ATIVIDADES.md):
+
+Os exercícios descritos e implamentados no bimestre passado em fluxograma e pseudocódigos, devem ser implementados utilizando a linguagem de programação C.
+
+Calculadora:
+
+Deve ser implementado um programa que irá apresentar um menu ao usuário com opções de executar as seguintes operações matemáticas:
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Resto
+
+Ao ler a opção informada pelo usuário o programa deverá solicitar os dados necessários e executar a operação matemática escolhida.
+
+Após a execução da operação o programa deverá apresentar novamente o menu para que o usuário escolha uma nova opção. O programa só deve parar de executar quando o usuário esplicitamente escolher a opção `Sair`.
+
+Para implemetar este programa deve ser utilizada a estrutura de repetição `do while`, a estrutura de opções `switch case` e funções.
