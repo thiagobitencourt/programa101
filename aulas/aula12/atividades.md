@@ -117,11 +117,11 @@ Encaminhe os exercícios resolvidos para o e-mail passado em sala de aula, respe
 
 Ao longo do bimestre foi solicitado que algumas outras atividades também fossem implementadas. Esta atividades também deverão ser entregues.
 
-Atividades da [aula 04](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula04/ATIVIDADES.md):
+**Atividades da [aula 04](https://github.com/thiagobitencourt/programa101/blob/master/aulas/aula04/ATIVIDADES.md)**
 
 Os exercícios descritos e implamentados no bimestre passado em fluxograma e pseudocódigos, devem ser implementados utilizando a linguagem de programação C.
 
-Calculadora:
+**Calculadora**
 
 Deve ser implementado um programa que irá apresentar um menu ao usuário com opções de executar as seguintes operações matemáticas:
 
