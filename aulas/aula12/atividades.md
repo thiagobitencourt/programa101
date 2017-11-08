@@ -1,7 +1,8 @@
 # Lista de exercícios
 
-[Atividade anteriores](#atividades-anteriores)
-[Veja a forma de entrega](#forma-de-entrega)
+- [Atividade anteriores](#atividades-anteriores)
+
+- [Veja a forma de entrega](#forma-de-entrega)
 
 Resolva os exercícios abaixo utilizando a linguagem de programação C.
 
@@ -112,7 +113,7 @@ Compacte este diretório em um arquivo `.zip` com o nome da seguinte forma: `Nom
 Encaminhe os exercícios resolvidos para o e-mail passado em sala de aula, respeitando a data e horário limite estipulados em sala de aula.
 
 
-# Atividades antoriores
+# Atividades anteriores
 
 Ao longo do bimestre foi solicitado que algumas outras atividades também fossem implementadas. Esta atividades também deverão ser entregues.
 
