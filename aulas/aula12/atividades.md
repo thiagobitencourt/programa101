@@ -1,5 +1,7 @@
 # Lista de exercícios
 
+[Veja a forma de entrega](#forma-de-entrega)
+
 Resolva os exercícios abaixo utilizando a linguagem de programação C.
 
 1. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
@@ -86,3 +88,24 @@ maior que | 12 | Super econômico!
 
 16. Faça uma função que receba dois números inteiros positivos por parâmetro e retorne a
 soma dos `N` números inteiros existentes entre eles.
+
+
+# Forma de entrega
+
+Implemente os exercícios utilizando a linguagem de programação C. Cada exercício deve ser resolvido em um arquivo com extensão `.c` e o nome do arquivo deve representar qual exercício esta resolvendo, por exemplo: `exercicio1.c`.
+
+Além disso, no inicio de cada arquivo adicione a descrição do exercício e o seu nome, ambos em forma de comentário. Por exemplo:
+
+```
+/*
+  Exercicio 1: Esta é a descrição do que deve ser feito para resolver o exercício 1.
+
+  Nome: Nome Sobrenome Completo
+*/
+```
+
+Após resolver todos os exercícios adicione os arquivos `.c` em um diretório juntamente com os demais exercícios que foram resolvidos ao longo do bimestre.
+
+Compacte este diretório em um arquivo `.zip` com o nome da seguinte forma: `NomeSobrenome_algoritmos_parcial2_201702.zip`.
+
+Encaminhe os exercícios resolvidos para o e-mail passado em sala de aula, respeitando a data e horário limite estipulados em sala de aula.
