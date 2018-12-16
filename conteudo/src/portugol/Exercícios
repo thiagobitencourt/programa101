@@ -1,0 +1,49 @@
+
+# Exercícios laços de repetição
+
+1. Faça um programa que verifique e mostre os números entre 1000 e 2000 (inclusive) que,
+quando divididos por 11, produzam resto igual a 5.
+
+2. Faça um programa que mostre a tabuada de um número informado pelo usuário, até o número (n) informado também pelo usuário. 
+Exiba o resultado no seguinte formato:
+	1 x 1 = 1
+	1 x 2 = 2
+	...
+	1 x 10 = 10
+    ...
+    1 x n = n
+
+3. Altere o programa da calculadora para que apresente ao usuário um menu, no seguinte formato: 
+    1 - Somar
+    2 - Subtrair
+    3 - Dividir
+    4 - Multiplicar
+    5 - Resto
+    6 - Sair
+    Informe a operação desejada: 
+
+Após o usuário informar a operação, o programada deverá solicitar os operadores, executar a operação e apresentar o resultado ao usuário.
+Em seguida, deverá apresentar novamente o menu ao usuário. 
+O programa só deverá terminar quando o usuário selecionar a opção "Sair" no menu.
+
+4. Utilizando o comando "enquanto" escreva um programa que irá somar os números (0 + 1 + 2 + 3 + ... + n) 
+até que a soma seja maior que um valor informado pelo usuário.
+
+
+# Exercícios Fluxograma
+
+1. Represente todos os algoritmos que foram implementados no exercícios utilizando fluxogramas.
+    - Usuário aprovado, reprovado ou exame, utilizando método antigo da uniasselvi
+    - Usuário aprovado ou reprovado, utilizando novo método da uniasselvi
+    - Calculadora (versão inicial, sem menu)
+    - Exercícios 1, 2, 3 e 4 acima (Incluindo a calculadora com menu)
+
+
+Entrega: 
+Os exercícios deverão ser enviados para o e-mail "thiago.bitencourt@uniasselvi.edu.br" até o dia 19/09/2018 às 18:30h.
+O e-mail deverá ter o assunto: "Trabalho 2 Portugol". 
+
+Os códigos das atividades de programação deverão ser entregues em arquivos com extensão .por anexos ao e-mail. 
+Os fluxogramas deverão ser entregues em um documento no formato PDF com nome "Fluxogramas.pdf".
+
+IMPORTANTE: Se o formato dos arquivos entregues não respeitar o que foi solicitado, a entrega será desconsiderada.

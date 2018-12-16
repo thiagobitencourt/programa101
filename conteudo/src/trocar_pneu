@@ -1,0 +1,19 @@
+1 Dado um carro com 4 rodas
+2 Avalie o pneu x
+3 Verificar calibragem
+4 Se a calibragem estiver abaixo de 10 libras, vamos trocar o pneu
+  - Verifica a numeração do aro
+  - Pega um pneu novo com a mesma numeração de aro
+  - Solta os parafusos
+  - Suspende o carro com a ajuda de um macaco (gorila)
+  - Tirar os parafusos
+  - Tira o pneu furado
+  - Tirar o pneu do aro
+  - Colocar o pneu novo no aro
+  - Calibrar o pneu
+  - Encaixar o novo pneu no carro
+  - Colocar os parafusos
+  - Baixar o carro
+  - Apertar os parafusos
+5? Ir para o próximo pneu, se houver
+5 Volte para o passo 2, se ainda houver pneu a ser avaliado
